@@ -40,6 +40,9 @@ A modern and responsive Translator Application built using **React.js** and **My
 ### Contact Page
 ![Contact Page](screenshots/contact.png)
 
+### Translation Output
+![Translation Output](screenshots/output.png)
+
 ## 🛠️ Tech Stack
 
 * React.js
