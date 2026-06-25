@@ -29,6 +29,16 @@ A modern and responsive Translator Application built using **React.js** and **My
 ✅ Random String Generator
 
 ---
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### About Page
+![About Page](screenshots/about.png)
+
+### Contact Page
+![Contact Page](screenshots/contact.png)
 
 ## 🛠️ Tech Stack
 
