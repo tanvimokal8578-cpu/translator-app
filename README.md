@@ -106,6 +106,20 @@ http://localhost:5173
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Translation Output
+![Translation Output](screenshots/output.png)
+
+### About Page
+![About Page](screenshots/about.png)
+
+### Contact Page
+![Contact Page](screenshots/contact.png)
+
 ## 🔮 Future Enhancements
 
 * Speech-to-Text Translation
